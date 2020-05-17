@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\HomeWork05162020\HomeWork05162020\bin\Debug\HomeWork05162020.exe.config
+C:\Users\hp\source\repos\HomeWork05162020\HomeWork05162020\bin\Debug\HomeWork05162020.exe
+C:\Users\hp\source\repos\HomeWork05162020\HomeWork05162020\bin\Debug\HomeWork05162020.pdb
+C:\Users\hp\source\repos\HomeWork05162020\HomeWork05162020\obj\Debug\HomeWork05162020.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\HomeWork05162020\HomeWork05162020\obj\Debug\HomeWork05162020.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\HomeWork05162020\HomeWork05162020\obj\Debug\HomeWork05162020.exe
+C:\Users\hp\source\repos\HomeWork05162020\HomeWork05162020\obj\Debug\HomeWork05162020.pdb
